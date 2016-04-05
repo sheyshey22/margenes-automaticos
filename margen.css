@@ -1,0 +1,21 @@
+.cuadro{
+	width: 250px;
+	height: 250px;
+	border: 20px solid yellow;
+	text-align:center;
+	font-size: 18px;
+	padding: 10px;  
+}
+
+.otro{
+	width: 250px;
+	height: 250px;
+	border: 20px solid yellow; 
+	font-size: 18px;
+	padding: 10px;
+	margin: auto;
+}
+#izquierda{
+	text-align: left;
+	margin: 10px;
+}
